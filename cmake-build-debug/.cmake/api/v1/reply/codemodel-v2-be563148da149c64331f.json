@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "COMP4300_Game_Programming",
+					"name" : "COMP4300",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "COMP4300_Game_Programming::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-COMP4300_Game_Programming-Debug-386bb88bf43736492325.json",
-					"name" : "COMP4300_Game_Programming",
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-eec5ef5a7d825243e865.json",
+					"name" : "main",
 					"projectIndex" : 0
 				}
 			]

@@ -735,7 +735,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "COMP4300_Game_Programming"
+			"value" : "COMP4300"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1078,6 +1078,18 @@
 			"value" : "FALSE"
 		},
 		{
+			"name" : "COMP4300_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "E:/CPPStuff/COMP4300-Game-Programming/cmake-build-debug"
+		},
+		{
 			"name" : "COMP4300_Game_Programming_BINARY_DIR",
 			"properties" : 
 			[
@@ -1112,6 +1124,54 @@
 			],
 			"type" : "STATIC",
 			"value" : "E:/CPPStuff/COMP4300-Game-Programming"
+		},
+		{
+			"name" : "COMP4300_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "COMP4300_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "E:/CPPStuff/COMP4300-Game-Programming"
+		},
+		{
+			"name" : "SFML_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for SFML."
+				}
+			],
+			"type" : "PATH",
+			"value" : "C:/SFML-2.6.1/lib/cmake/SFML"
+		},
+		{
+			"name" : "SFML_DOC_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a file."
+				}
+			],
+			"type" : "PATH",
+			"value" : "SFML_DOC_DIR-NOTFOUND"
 		}
 	],
 	"kind" : "cache",
